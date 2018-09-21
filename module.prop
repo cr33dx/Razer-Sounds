@@ -1,0 +1,7 @@
+id=Razer Sounds
+name=Razer Sounds
+version=v1
+versionCode=1
+author=cr33dx
+description=A magisk module to add razer phone sounds to your device continued the work of "https://github.com/Sandelinos/Razerify-Sounds" by updating magisk template
+minMagisk=17000
